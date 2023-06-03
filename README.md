@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hadeerhub
-- 👀 I’m interested in AI and cyber security 
-- 🌱 I’m currently learning AI 
+- 👀 I’m interested in AI and Data Science 
+- 🌱 I’m currently learning AI and Data Analysis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
